@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>yes, that.</title>
+    <description>description</description>
+    <link>http://creatigeek.github.io/</link>
+    <atom:link href="http://creatigeek.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 04 Aug 2015 13:40:44 -0700</pubDate>
+    <lastBuildDate>Tue, 04 Aug 2015 13:40:44 -0700</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Test 3</title>
+        <description>&lt;p&gt;The Future&lt;/p&gt;
+
+&lt;h2 class=&quot;section-heading&quot;&gt;Aye!!&lt;/h2&gt;
+</description>
+        <pubDate>Wed, 05 Aug 2015 05:00:00 -0700</pubDate>
+        <link>http://creatigeek.github.io/2015/08/05/test3/</link>
+        <guid isPermaLink="true">http://creatigeek.github.io/2015/08/05/test3/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Test 2</title>
+        <description>&lt;p&gt;Tasting the Goodness of Life&lt;/p&gt;
+
+&lt;h2 class=&quot;section-heading&quot;&gt;Rocking it out&lt;/h2&gt;
+</description>
+        <pubDate>Tue, 04 Aug 2015 05:00:00 -0700</pubDate>
+        <link>http://creatigeek.github.io/2015/08/04/test2/</link>
+        <guid isPermaLink="true">http://creatigeek.github.io/2015/08/04/test2/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Test 1</title>
+        <description>&lt;p&gt;Test 1&lt;/p&gt;
+
+&lt;h2 class=&quot;section-heading&quot;&gt;Some tests are never over... or are they?&lt;/h2&gt;
+
+&lt;p&gt;Trials, Tribulations? What&#39;s next?&lt;/p&gt;
+
+&lt;blockquote&gt;During these times, one must put the proverbial peddle to the mettle.&lt;/blockquote&gt;
+
+&lt;h2 class=&quot;section-heading&quot;&gt;Reaching for the Stars&lt;/h2&gt;
+</description>
+        <pubDate>Mon, 03 Aug 2015 05:00:00 -0700</pubDate>
+        <link>http://creatigeek.github.io/2015/08/03/test1/</link>
+        <guid isPermaLink="true">http://creatigeek.github.io/2015/08/03/test1/</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>

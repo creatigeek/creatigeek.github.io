@@ -1,0 +1,11 @@
+---
+layout:     post
+title:      "Test 2"
+date:       2015-08-04 12:00:00
+author:     "vanessa"
+header-img: "img/post-bg-05.jpg"
+---
+
+<p>Tasting the Goodness of Life</p>
+
+<h2 class="section-heading">Rocking it out</h2>

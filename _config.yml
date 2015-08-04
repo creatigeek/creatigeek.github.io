@@ -1,0 +1,16 @@
+# Site settings
+title: yes, that.
+header-img: img/home-bg.jpg
+email: vanessa@tradecrafted.com
+description: "description"
+url: "http://creatigeek.github.io"
+twitter_username: creatigeek
+github_username:  creatigeek
+facebook_username:  vpwallis
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]

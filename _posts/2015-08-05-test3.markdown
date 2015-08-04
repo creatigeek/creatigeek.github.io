@@ -1,0 +1,12 @@
+---
+layout:     post
+title:      "Test 3"
+subtitle:   "Future Tests are Future-bound"
+date:       2015-08-05 12:00:00
+author:     "vanessa"
+header-img: "img/post-bg-06.jpg"
+---
+
+<p>The Future</p>
+
+<h2 class="section-heading">Aye!!</h2>

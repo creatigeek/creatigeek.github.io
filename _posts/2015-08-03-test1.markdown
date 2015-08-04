@@ -1,0 +1,19 @@
+---
+layout:     post
+title:      "Test 1"
+subtitle:   "This is a first of tests."
+date:       2015-08-03 12:00:00
+author:     "vanessa"
+header-img: "img/post-bg-04.jpg"
+---
+
+<p>Test 1</p>
+
+<h2 class="section-heading">Some tests are never over... or are they?</h2>
+
+<p>Trials, Tribulations? What's next?</p>
+
+<blockquote>During these times, one must put the proverbial peddle to the mettle.</blockquote>
+
+
+<h2 class="section-heading">Reaching for the Stars</h2>
